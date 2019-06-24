@@ -41,8 +41,8 @@ python queries*.py
 
 ## Have Fun :)
 
-## Authors
+This is just an example to work on and practice.
 
- with this:
+## Authors
 
 * **Auth0Com** - *Initial example which helped me a lot* - [Auth0Com](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
