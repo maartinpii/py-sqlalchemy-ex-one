@@ -45,4 +45,4 @@ python queries*.py
 
  with this:
 
-* **Auth0Com** - *Initial example which helped me a lot** - [Auth0|(https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
+* **Auth0Com** - *Initial example which helped me a lot* - [Auth0|(https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
